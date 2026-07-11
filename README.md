@@ -53,6 +53,11 @@ IT student at the **Polytechnic University of the Philippines**, based in Manila
  <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sramos06&layout=compact&hide_border=true">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sramos06/Sramos06/output/github-snake-dark.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sramos06/Sramos06/output/github-snake.svg">
+</picture>
+
 ---
 
 <sub>🐣 Yes, the account is new. The commits are coming. If the meme up top is broken, blame the internet, not me.</sub>
