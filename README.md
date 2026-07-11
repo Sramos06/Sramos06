@@ -4,21 +4,55 @@
  <img alt="lupet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzTAz0n_p5GyzLkmRP0JZ-r_Cd0dEfUmbjw&s">
 </picture>
 
-# 💫 About Me:
-🔭 I’m currently working on a group project<br>👯 I’m looking to collaborate on anything<br>🤝 I’m looking for help with nothing for now<br>🌱 I’m currently learning everything<br>💬 Ask me about anything<br>⚡ Fun fact I'm new
+# Hey, I'm Shawn 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sramos006)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramosshawnangel@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sssramos06)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sramos006) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sssramos06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sramos006) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sramos006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramosshawnangel@gmail.com) 
+IT student at the **Polytechnic University of the Philippines**, based in Manila. I learn languages by building things with them: desktop apps in Java, data analysis in Python, and lately, web apps that refuse to cost money.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sramos06&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sramos06&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sramos06&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Swap this line whenever the current project changes -->
+- 🚧 **Currently building:** [Repaso](https://github.com/Sramos06/repaso), a study-hub web app for interactive reviewers and notes. Next.js + Vercel + Neon. Total hosting bill: ₱0.00
+- 🌱 Leveling up **React/Next.js** and **C++**. Python and Java are home turf.
+- 🎮 Side quest: a cozy coffee-shop simulator in **Roblox Studio**
+- ⚡ My exam review strategy is building an entire web app to review with, instead of just... reviewing
+
+## 🧰 Toolbox
+
+**Daily drivers** &nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Getting comfortable** &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Learning** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Tools** &nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+## 📊 Stats
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Sramos06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github">
+ <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Sramos06&show_icons=true&hide_border=true&rank_icon=github">
+</picture>
+<br>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Sramos06&layout=compact&theme=github_dark&hide_border=true">
+ <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sramos06&layout=compact&hide_border=true">
+</picture>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sramos06&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>🐣 Yes, the account is new. The commits are coming. If the meme up top is broken, blame the internet, not me.</sub>
