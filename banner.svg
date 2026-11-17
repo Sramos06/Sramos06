@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.38"/>
+      <stop offset="0.45" stop-color="#cfe9ff" stop-opacity="0.08"/>
+      <stop offset="0.55" stop-color="#cfe9ff" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.26"/>
+    </linearGradient>
+    <linearGradient id="bevelTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="0.6" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="bevelBot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9fd2ff" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#9fd2ff" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="grip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.30"/>
+      <stop offset="0.5" stop-color="#9fd2ff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#cfe9ff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#cfe9ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="880" height="200" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="879" height="199" fill="none" stroke="#30363d"/>
+  <path d="M0 40H880M0 80H880M0 120H880M0 160H880M110 0V200M220 0V200M330 0V200M440 0V200M550 0V200M660 0V200M770 0V200" stroke="#161b22" stroke-width="1"/>
+
+  <text x="40" y="92" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700">Shawn Angel Ramos</text>
+  <text x="40" y="128" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">BSIT 3rd year · Polytechnic University of the Philippines, Manila</text>
+  <rect x="40" y="148" width="64" height="4" fill="#cfe9ff"/>
+
+  <!-- glass sword -->
+  <g transform="translate(706 106) rotate(-26)">
+    <ellipse cx="34" rx="180" ry="40" fill="url(#glow)"/>
+
+    <!-- blade body -->
+    <path d="M -22 -7 L 150 -5.5 L 176 0 L 150 5.5 L -22 7 Z" fill="url(#glass)"/>
+    <!-- bevelled edges: upper catches the light, lower stays cool -->
+    <path d="M -22 -7 L 150 -5.5 L 176 0 L 150 -2.2 L -22 -3.4 Z" fill="url(#bevelTop)"/>
+    <path d="M -22 7 L 150 5.5 L 176 0 L 150 2.2 L -22 3.4 Z" fill="url(#bevelBot)"/>
+    <!-- fuller (groove) down the first two thirds -->
+    <path d="M -14 -1.1 L 104 -0.7 Q 110 0 104 0.7 L -14 1.1 Z" fill="#0d1117" fill-opacity="0.35" stroke="#ffffff" stroke-opacity="0.35" stroke-width="0.5"/>
+    <!-- outline -->
+    <path d="M -22 -7 L 150 -5.5 L 176 0 L 150 5.5 L -22 7" fill="none" stroke="#eaf5ff" stroke-width="1.1" stroke-opacity="0.9" stroke-linejoin="round"/>
+    <path d="M 150 -2.2 L 176 0 L 150 2.2" fill="none" stroke="#ffffff" stroke-width="0.6" stroke-opacity="0.6"/>
+    <!-- refraction streaks and a soft highlight -->
+    <path d="M 6 -5.6 L 132 -4.4" stroke="#ffffff" stroke-width="1.4" stroke-opacity="0.75" stroke-linecap="round"/>
+    <path d="M 40 4.4 L 70 4.1 M 92 3.9 L 104 3.8" stroke="#ffffff" stroke-width="0.8" stroke-opacity="0.45" stroke-linecap="round"/>
+    <path d="M 120 -3 L 128 3 M 58 -3.5 L 63 3.5" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.3"/>
+
+    <!-- guard: curved glass quillons with a center block -->
+    <path d="M -24 -8 Q -30 -18 -22 -28 Q -28 -20 -28 -8 Z" fill="url(#grip)" stroke="#eaf5ff" stroke-width="0.9" stroke-opacity="0.85"/>
+    <path d="M -24 8 Q -30 18 -22 28 Q -28 20 -28 8 Z" fill="url(#grip)" stroke="#eaf5ff" stroke-width="0.9" stroke-opacity="0.85"/>
+    <path d="M -31 -9 L -22 -9 L -20 0 L -22 9 L -31 9 L -33 0 Z" fill="url(#grip)" stroke="#eaf5ff" stroke-width="1" stroke-opacity="0.9"/>
+    <path d="M -29 -6 L -24 -6" stroke="#ffffff" stroke-width="0.8" stroke-opacity="0.7" stroke-linecap="round"/>
+
+    <!-- grip with glass rings -->
+    <rect x="-72" y="-3.6" width="40" height="7.2" rx="3.4" fill="url(#grip)" stroke="#eaf5ff" stroke-width="0.9" stroke-opacity="0.85"/>
+    <path d="M -64 -3.6 V 3.6 M -54 -3.6 V 3.6 M -44 -3.6 V 3.6" stroke="#eaf5ff" stroke-width="1.6" stroke-opacity="0.45"/>
+    <path d="M -69 -1.8 L -36 -1.8" stroke="#ffffff" stroke-width="0.9" stroke-opacity="0.6" stroke-linecap="round"/>
+
+    <!-- pommel: faceted glass drop -->
+    <path d="M -72 0 L -77 -6 L -86 -4.5 L -90 0 L -86 4.5 L -77 6 Z" fill="url(#grip)" stroke="#eaf5ff" stroke-width="0.9" stroke-opacity="0.9"/>
+    <path d="M -77 -6 L -80 0 L -77 6 M -80 0 L -90 0" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.5"/>
+    <circle cx="-79" cy="-2.6" r="1.1" fill="#ffffff" fill-opacity="0.85"/>
+
+    <!-- glint at the tip -->
+    <path d="M 170 -12 l 1.2 -4.2 l 1.2 4.2 l 4.2 1.2 l -4.2 1.2 l -1.2 4.2 l -1.2 -4.2 l -4.2 -1.2 Z" fill="#ffffff" fill-opacity="0.9"/>
+  </g>
+
+  <text x="846" y="190" text-anchor="end" fill="#484f58" font-family="Consolas, monospace" font-size="11">Sramos06</text>
+</svg>
